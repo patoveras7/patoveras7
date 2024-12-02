@@ -52,9 +52,36 @@ const Patricio = {
   <li>CSS</li>
 </ul>
 
+<br>
 
+<details>
+  <summary>☎️ Tu consulta es bienvenida!</summary>
+<div>
+  <samp>
+    <h2 align="center">Podes encontrarme en:</h2>
+    <p align="center">
+      <br/>
+      <a href="www.linkedin.com/in/patricio-veras" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:patricioverasc@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/patoveras7" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+0351153048003" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
 
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

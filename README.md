@@ -4,11 +4,15 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=191970&center=true&vCenter=true&lines=Bienvenido/a+a+mi+perfil;es+un+placer+saludarte,;avisame+si+necesitas+algo." alt="Texto animado">
 </h2>
+
 <br>
+
 <h3 align="center">Soy un Abogado y ex-tenista🎾 apasionado por el increible mundo IT💻, habiendome especializado en el Desarrollo Web y en constante contacto y cooperación con demás colegas.</h3>
+
 <br>
 <br>
 <br>
+
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="450" height="280">
 
 #### A little bit about me
@@ -19,7 +23,7 @@ const Patricio = {
   askMeAbout: ["web dev", "frontend dev", "React", "Next"],
   technologies: {
       frontend: ["HTML", "CSS", "Tailwind", "React", "Next"],
-      backend: ["Node Js", "JS"],
+      backend: ["Node Js", "Express", "JS"],
   }
 }
 ```
@@ -28,7 +32,27 @@ const Patricio = {
 <br>
 <br>
 
-🔭 Actualmente estoy trabajando en una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend) / Link al deploy: [Rompiendo Barreras](https://rompiendo-barreras-pf.vercel.app/) 
+🔍🔍Actualmente me encuentro en activa busqueda de una oportunidad laboral IT💻, creyendo firmemente en el trabajo duro 💪 y en responder con mi maximo esfuerzo a quienes me brindaron su confianza, si me das la chance con total seguridad te seré de gran utilidad🚀🚀
+
+<br>
+
+🔭 De momento estoy trabajando en una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend) / Link al deploy: [Rompiendo Barreras](https://rompiendo-barreras-pf.vercel.app/) 
+
+<br>
+
+**Tech Skills**
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Node Js</li>
+  <li>Express</li>
+  <li>React</li>
+  <li>Next</li>
+  <li>Tailwind</li>
+  <li>CSS</li>
+</ul>
+
+
 
 
 

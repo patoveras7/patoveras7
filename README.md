@@ -1,7 +1,36 @@
-<h1 align="center">Hola 👋, soy Patricio Veras, pero todos me conocen como Pato🦆.</h1>
-<h3 align="center">Soy un Abogado y ex-tenista🎾 apasionado por el increible mundo IT💻, habiendome especializado en el Desarrollo Web y en constante contacto y cooperación con demas colegas.</h3>
+<h1 align="center">Hola 👋, mi nombre es Patricio, pero podés decirme Pato🦆.</h1>
+<h2 align="center">
+  <img src="https://i.pinimg.com/236x/62/59/a9/6259a9e2bcd1999d56211f299e99dcad.jpg" alt="Logo de GitHub" style="width: 35px; height: 35px;">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=191970&center=true&vCenter=true&lines=Bienvenido/a+a+mi+perfil;es+un+placer+saludarte,;avisame+si+necesitas+algo." alt="Texto animado">
+</h2>
+<br>
+<h3 align="center">Soy un Abogado y ex-tenista🎾 apasionado por el increible mundo IT💻, habiendome especializado en el Desarrollo Web y en constante contacto y cooperación con demás colegas.</h3>
+<br>
+<br>
+<br>
+<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="450" height="280">
 
-🔭 Actualmente estoy trabajando en una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend)
+#### A little bit about me
+```javascript
+const Patricio = {
+  nickname: "Pato" | "🦆",
+  code: ["Javascript", "TypeScript", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "React", "Next"],
+  technologies: {
+      frontend: ["HTML", "CSS", "Tailwind", "React", "Next"],
+      backend: ["Node Js", "JS"],
+  }
+}
+```
+
+<br>
+<br>
+<br>
+
+🔭 Actualmente estoy trabajando en una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend) / Link al deploy: [Rompiendo Barreras](https://rompiendo-barreras-pf.vercel.app/) 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

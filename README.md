@@ -36,7 +36,15 @@ const Patricio = {
 
 <br>
 
-🔭 De momento estoy trabajando en una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend) / Link al deploy: [Rompiendo Barreras](https://rompiendo-barreras-pf.vercel.app/) 
+🔭 De momento estoy trabajando en varios proyectos:
+
+<br>
+
+- Un sitio web interactivo que ofrece servicios de medicina no farmacológica, en especial fisioterapia, conectando a los usuarios (pacientes) con los profesionales en la salud que los atenderán según el turno acordado conforme la agenda. Cada profesional de la salud tendrá su agenda personalizada y un repertorio donde podra subir sus certificaciones y reconocimientos que el paciente podrá analizar al momento de elegir el servicio. Este trabajo se da en el marco de una pasantia en la empresa FisioThera de Perú. Link al Deploy: https://fisiomfulness.vercel.app/  
+
+<br>
+
+- Una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend) / Link al deploy: [Rompiendo Barreras](https://rompiendo-barreras-pf.vercel.app/) 
 
 <br>
 

@@ -19,11 +19,11 @@
 ```javascript
 const Patricio = {
   nickname: "Pato" | "🦆",
-  code: ["Javascript", "TypeScript", "HTML", "CSS", "C++"],
+  code: ["Javascript", "TypeScript", "HTML", "CSS", "C++", "JAVA", "SPRING FRAMEWORK", "SPRING BOOT"],
   askMeAbout: ["web dev", "frontend dev", "React", "Next"],
   technologies: {
       frontend: ["HTML", "CSS", "Tailwind", "React", "Next"],
-      backend: ["Node Js", "Express", "JS"],
+      backend: ["Node Js", "Express", "JS", "SQL", "POSTGRESQL"],
   }
 }
 ```

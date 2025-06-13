@@ -36,20 +36,29 @@ const Patricio = {
 
 <br>
 
-🔭 De momento estoy trabajando en varios proyectos:
+🔭 He tabajado en varios proyectos:
 
 <br>
 
-- Un sitio web interactivo que ofrece servicios de medicina no farmacológica, en especial fisioterapia, conectando a los usuarios (pacientes) con los profesionales en la salud que los atenderán según el turno acordado conforme la agenda. Cada profesional de la salud tendrá su agenda personalizada y un repertorio donde podra subir sus certificaciones y reconocimientos que el paciente podrá analizar al momento de elegir el servicio. Este trabajo se da en el marco de una pasantia en la empresa FisioThera de Perú. Link al Deploy: https://fisiomfulness.vercel.app/  
+- Actualmente estoy trabajando en una Wallet/Billetera virtual intuitiva para el usuario quien puede poseer distintas cuentas corrientes y cajas de ahorro en distintos tipo de moneda, asociar tarjetas y operar con transferencias, depositos, extracciones, etc. Desarrollo completo de la integración de API y conexión con Base de Datos. Interfaz de usuario completa. Link al reposirorio backend: https://github.com/alkemyTech/CFILP-JAVA-W2-Back-S3. Link al reposirorio frontend: https://github.com/alkemyTech/CFILP-JAVA-W2-Front-S3.  
 
 <br>
 
-- Una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend) / Link al deploy: [Rompiendo Barreras](https://rompiendo-barreras-pf.vercel.app/) 
+- Anteriormente he trabajado en: Un sitio web interactivo que ofrece servicios de medicina no farmacológica, en especial fisioterapia, conectando a los usuarios (pacientes) con los profesionales en la salud que los atenderán según el turno acordado conforme la agenda. Cada profesional de la salud tendrá su agenda personalizada y un repertorio donde podra subir sus certificaciones y reconocimientos que el paciente podrá analizar al momento de elegir el servicio. Este trabajo se da en el marco de una pasantia en la empresa FisioThera de Perú. Link al Deploy: https://fisiomfulness.vercel.app/  
+
+<br>
+
+- Anteriormente he trabajado en: Una plataforma destinada a la enseñanza de todo tipo de idiomas. Dicha plataforma acepta el pago de determinadas mebresias que posibilitan el acceso a ciertos cursos de distintos lenguajes. Lo llamativo es que cada lenguaje tiene distintos tipos de curso dependiendo la motivación que haya tenido el usuario a la hora de estudiar el idioma, sea rendir un exámen internacional, viajar por placer, viajar por trabajo, trabajar para extranjero, etc. Link al repositorio: [Rompiendo Barreras](https://github.com/Neoagustin/PT21A-Grupo5-PF-Frontend) / Link al deploy: [Rompiendo Barreras](https://rompiendo-barreras-pf.vercel.app/) 
 
 <br>
 
 **Tech Skills**
 <ul>
+   <li>JAVA</li>
+   <li>Spring Framework</li>
+   <li>Spring Boot</li>
+   <li>SQL</li>
+   <li>PostgreSQL</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>Node Js</li>
